@@ -1,0 +1,22 @@
+{
+    "name": "Halberd1H",
+    "keyword": [
+        "WeapTypeHalberd"
+    ],
+    "commonNames": [
+        "halberd",
+        "glaive",
+        "polearm"
+    ],
+    "excludeNames": [],
+    "outputDescription": "a halberd",
+    "include": [
+        "000D99:DS3 Weapon Pack.esp",
+        "00B090:DS3 Weapon Pack.esp",
+        "00B0AF:DS3 Weapon Pack.esp",
+        "024695:DS3 Weapon Pack.esp",
+        "000935:Dark Souls Item Pack by Team TAL.esp"
+    ],
+    "exclude": [],
+    "validEquipType": "OneHand"
+}

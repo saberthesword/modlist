@@ -1,0 +1,23 @@
+{
+    "name": "Pike1H",
+    "keyword": [
+        "WeapTypePike"
+    ],
+    "commonNames": [
+        "pike",
+        "lance"
+    ],
+    "excludeNames": [
+        "spike"
+    ],
+    "outputDescription": "a pike",
+    "include": [
+        "00095F:Liliths Tools.esp",
+        "000A04:Liliths Tools.esp",
+        "000A2A:Liliths Tools.esp",
+        "000A2E:Liliths Tools.esp",
+        "000D7D:DS3 Weapon Pack.esp"
+    ],
+    "exclude": [],
+    "validEquipType": "OneHand"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Trident1H",
+    "keyword": [
+        "WeapTypeTrident"
+    ],
+    "commonNames": [
+        "trident"
+    ],
+    "excludeNames": [],
+    "outputDescription": "a trident",
+    "include": [],
+    "exclude": [
+        "010E6C:Immersive Weapons.esp"
+    ],
+    "validEquipType": "OneHand"
+}

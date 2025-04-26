@@ -1,0 +1,14 @@
+{
+    "name": "Shortsword1H",
+    "keyword": [
+        "WeapTypeShortsword"
+    ],
+    "commonNames": [
+        "shortsword"
+    ],
+    "excludeNames": [],
+    "outputDescription": "a shortsword",
+    "include": [],
+    "exclude": [],
+    "validEquipType": "OneHand"
+}

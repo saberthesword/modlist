@@ -1,0 +1,23 @@
+{
+    "name": "Scythe1H",
+    "keyword": [
+        "WeapTypeScythe"
+    ],
+    "commonNames": [
+        "war scythe",
+        "warscythe",
+        "war-scythe",
+        "scythe",
+        "sickle"
+    ],
+    "excludeNames": [],
+    "outputDescription": "a scythe",
+    "include": [],
+    "exclude": [
+        "77FFD5:LegacyoftheDragonborn.esm",
+        "018DDD:Dragonborn.esm",
+        "037FF2:Dragonborn.esm",
+        "096D63:Immersive Weapons.esp"
+    ],
+    "validEquipType": "OneHand"
+}
