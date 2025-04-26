@@ -1,0 +1,14 @@
+{
+    "name": "Javelin1H",
+    "keyword": [
+        "WeapTypeJavelin"
+    ],
+    "commonNames": [
+        "javelin"
+    ],
+    "excludeNames": [],
+    "outputDescription": "a javelin",
+    "include": [],
+    "exclude": [],
+    "validEquipType": "OneHand"
+}

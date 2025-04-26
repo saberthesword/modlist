@@ -1,0 +1,14 @@
+{
+    "name": "Glaive1H",
+    "keyword": [
+        "WeapTypeGlaive"
+    ],
+    "commonNames": [
+        "glaive"
+    ],
+    "excludeNames": [],
+    "outputDescription": "a glaive",
+    "include": [],
+    "exclude": [],
+    "validEquipType": "OneHand"
+}

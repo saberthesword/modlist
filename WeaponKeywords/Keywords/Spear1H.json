@@ -1,0 +1,34 @@
+{
+    "name": "Spear1H",
+    "keyword": [
+        "WeapTypeSpear",
+        "WeapTypeSpear1H"
+    ],
+    "commonNames": [
+        "spear"
+    ],
+    "excludeNames": [
+        "icy spear",
+        "riekling",
+        "shortspear",
+        "short spear",
+        "short-spear"
+    ],
+    "outputDescription": "a spear",
+    "include": [
+        "0246A8:DS3 Weapon Pack.esp"
+    ],
+    "exclude": [
+        "77AE26:LegacyoftheDragonborn.esm",
+        "11CBFB:LegacyoftheDragonborn.esm",
+        "000810:ccbgssse040-advobgobs.esl",
+        "000D99:DS3 Weapon Pack.esp",
+        "00D06C:DS3 Weapon Pack.esp",
+        "0246A9:DS3 Weapon Pack.esp",
+        "00095F:Liliths Tools.esp",
+        "000A04:Liliths Tools.esp",
+        "000A2A:Liliths Tools.esp",
+        "000A2E:Liliths Tools.esp"
+    ],
+    "validEquipType": "OneHand"
+}
