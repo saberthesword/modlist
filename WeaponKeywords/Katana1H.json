@@ -1,0 +1,54 @@
+{
+    "name": "Katana1H",
+    "keyword": [
+        "WeapTypeKatana"
+    ],
+    "commonNames": [
+        "daito",
+        "ninjato",
+        "zatoichi",
+        "ka po' tun",
+        "wakizashi",
+        "akaviri",
+        "katana"
+    ],
+    "excludeNames": [
+        "claw",
+        "daikatana",
+        "dai-katana"
+    ],
+    "outputDescription": "a katana",
+    "include": [
+        "000D61:ccbgssse005-goldbrand.esl",
+        "0C1989:Skyrim.esm",
+        "0067CF:Dawnguard.esm",
+        "014555:Dawnguard.esm",
+        "03AEB9:Skyrim.esm",
+        "0F1AC1:Skyrim.esm",
+        "0F71CD:Skyrim.esm",
+        "0F71CE:Skyrim.esm",
+        "0F71CF:Skyrim.esm",
+        "0F71D0:Skyrim.esm",
+        "00B091:DS3 Weapon Pack.esp",
+        "000D9B:DS3 Weapon Pack.esp",
+        "00B012:DS3 Weapon Pack.esp",
+        "00092A:Dark Souls Item Pack by Team TAL.esp",
+        "00086C:BB Pack by Team TAL.esp",
+        "000880:BB Pack by Team TAL.esp",
+        "010E6C:Immersive Weapons.esp",
+        "000817:PrvtIRoyalArmory.esp",
+        "04A38F:Skyrim.esm",
+        "0EA29C:Skyrim.esm",
+        "000D71:Immersive Weapons.esp",
+        "00086D:BB Pack by Team TAL.esp"
+    ],
+    "exclude": [
+        "122D9C:LegacyoftheDragonborn.esm",
+        "166840:LegacyoftheDragonborn.esm",
+        "166841:LegacyoftheDragonborn.esm",
+        "166842:LegacyoftheDragonborn.esm",
+        "056C72:DBM_RelicHunter.esp",
+        "060E9B:DBM_RelicHunter.esp"
+    ],
+    "validEquipType": "OneHand"
+}

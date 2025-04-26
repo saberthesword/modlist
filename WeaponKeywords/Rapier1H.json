@@ -1,0 +1,37 @@
+{
+    "name": "Rapier1H",
+    "keyword": [
+        "WeapTypeRapier"
+    ],
+    "commonNames": [
+        "rapier",
+        "ropera",
+        "epee",
+        "pappenheimer",
+        "crosshilt",
+        "foil"
+    ],
+    "excludeNames": [],
+    "outputDescription": "a rapier",
+    "include": [
+        "000D63:ccbgssse031-advcyrus.esm",
+        "000816:Immersive Weapons.esp",
+        "000964:Immersive Weapons.esp",
+        "0246B1:DS3 Weapon Pack.esp",
+        "00091A:Dark Souls Item Pack by Team TAL.esp",
+        "00087D:BB Pack by Team TAL.esp",
+        "000881:BB Pack by Team TAL.esp",
+        "008863:Immersive Weapons.esp",
+        "001E93:BladeOfIntrigue_SE_Eng.esp",
+        "000852:Liliths Tools.esp",
+        "00085A:Liliths Tools.esp",
+        "000877:Liliths Tools.esp",
+        "00087F:Liliths Tools.esp",
+        "000854:Liliths Tools.esp",
+        "00085D:Liliths Tools.esp",
+        "000879:Liliths Tools.esp",
+        "000883:Liliths Tools.esp"
+    ],
+    "exclude": [],
+    "validEquipType": "OneHand"
+}

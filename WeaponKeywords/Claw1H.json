@@ -1,0 +1,17 @@
+{
+    "name": "Claw1H",
+    "keyword": [
+        "WeapTypeClaw"
+    ],
+    "commonNames": [
+        "claw"
+    ],
+    "excludeNames": [],
+    "outputDescription": "a claw",
+    "include": [
+        "00B031:DS3 Weapon Pack.esp",
+        "00B032:DS3 Weapon Pack.esp"
+    ],
+    "exclude": [],
+    "validEquipType": "OneHand"
+}

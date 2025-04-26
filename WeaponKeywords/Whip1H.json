@@ -1,0 +1,14 @@
+{
+    "name": "Whip1H",
+    "keyword": [
+        "WeapTypeWhip"
+    ],
+    "commonNames": [
+        "whip"
+    ],
+    "excludeNames": [],
+    "outputDescription": "a whip",
+    "include": [],
+    "exclude": [],
+    "validEquipType": "OneHand"
+}
