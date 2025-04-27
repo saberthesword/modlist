@@ -2,20 +2,6 @@
   "Root": "https://github.com/saberthesword/modlist/tree/main/WeaponKeywords/Keywords",
   "Files": [
     "index.json",
-    "Claw1H.json",
-    "Glaive1H.json",
-    "Halberd1H.json",
-    "Javelin1H.json",
-    "Katana1H.json",
-    "Katana2H.json",
-    "Pike1H.json",
-    "Rapier1H.json",
-    "Scythe1H.json",
-    "Shortsword1H.json",
-    "Spear1H.json",
-    "Spear2H.json",
-    "Trident1H.json",
-    "Twinblade.json",
-    "Whip1H.json"
+    "Scimitar1H.json"
   ]
 }
