@@ -1,0 +1,20 @@
+{
+    "name": "Scimitar1H.json",
+    "keyword": [
+        "WeapTypeCurvedSword"
+    ],
+    "commonNames": [
+       "scimitar"
+    ],
+    "excludeNames": [
+     
+    ],
+    "outputDescription": "a scimitar",
+    "include": [
+       
+    ],
+    "exclude": [
+        
+    ],
+    "validEquipType": "OneHand"
+}
