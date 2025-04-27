@@ -1,6 +1,6 @@
 {
-    "Name": "SynWeaponKeywords - Mini's Package",
-    "Description": "An Opinionated Weapon Keyword Package",
+    "Name": "My Keywords",
+    "Description": "More Keywords",
     "excludes": {
         "phrases": [],
         "weapons": [
